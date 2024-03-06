@@ -5,5 +5,5 @@
 * Local로 Clone
 * Local에서 수정
 * Local에서 Commit
-* Remote로 Push
+* Remote로 Push  
 ###를 연습하기 위해 만들었습니다.
